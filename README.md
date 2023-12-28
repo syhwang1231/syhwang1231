@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - I'm majoring in Computer Science at Sookmyung Women’s University. (2020.03 ~ )
 - I was also an exchange student in Angelo State University, Texas, U.S. (2023.08 ~ 12.)
 - My goal is to be an front-end app developer.
-- I'm currently learning <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> and <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>.
+- I'm currently learning <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=swift&logoColor=white"/> and <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>.
 - Github - [github.com/syhwang1231](http://github.com/syhwang1231)
 - Email - syhhwang1231@gmail.com
 - Velog - <a href="https://velog.io/@sxyxnni"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
