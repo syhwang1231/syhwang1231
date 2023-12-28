@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I'm Suyeon 👋
 
 <!--
 **syhwang1231/syhwang1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 **I’m currently learning**<br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 
-🔥 **Contact** <br>
-<a href="https://velog.io/@sxyxnni"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+## 🧐 Profile
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhwang1231&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=syhwang1231&show_icons=true&theme=radical">
+- I'm majoring in Computer Science at Sookmyung Women’s University. (2020.03 ~ )
+- I was also an exchange student in Angelo State University, Texas, U.S. (2023.08 ~ 12.)
+- My goal is to be an front-end app developer.
+- I'm currently learning <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> and <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>.
+- Github - [github.com/syhwang1231](http://github.com/syhwang1231)
+- Email - syhhwang1231@gmail.com
+- Velog - <a href="https://velog.io/@sxyxnni"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+
+
+## 🤸🏻‍♀️ Experiences
+- Sookmyung Software Dept. Algorithm Club - ALGOS (11th, 12th Member, 2021)
+- Sookmyung Mobile Application Development Club - APPS (8th Member, 2022 ~ 2023)
+
+## 🛠 Skills
+- Programming Languages and Software
+    - Python, C, C++, HTML, Javascript, Java, Android Programming(Kotlin), iOS Programming(Swift)
+- Web Programming
+    - Client side: Javascript, React
+    - Server side: Java, Spring
+- Database Programming
+    - MySQL
