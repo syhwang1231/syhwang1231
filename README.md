@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center>
+    
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyhwang1231&count_bg=%233BD3FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
 ## 🧐 Profile
 
 - I'm majoring in Computer Science at Sookmyung Women’s University. (2020.03 ~ )
 - I was also an exchange student in Angelo State University, Texas, U.S. (2023.08 ~ 12.)
 - My goal is to be an front-end app developer.
 - I'm currently learning <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=swift&logoColor=white"/> and <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=spring&logoColor=white"/>.
-- Contact: <img src="https://img.shields.io/badge/Github-181717?style=round-square&logo=GitHub&logoColor=white" link="http://github.com/syhwang1231"/>
-- Github - [github.com/syhwang1231](http://github.com/syhwang1231)
-- Email - syhhwang1231@gmail.com
-- LinkedIn - <a href="https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%ED%99%A9-05ba292a6/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=round-square&logo=Linkedin&logoColor=white"/></a>
-- Velog - <a href="https://velog.io/@sxyxnni"><img src="https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white"/></a>
-
+- Contact: [![GitHub](https://img.shields.io/badge/Github-181717?style=round-square&logo=GitHub&logoColor=white)](http://github.com/syhwang1231) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:syhhwang1231@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%ED%99%A9-05ba292a6/) [![Velog](https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white)](https://velog.io/@sxyxnn) 
 
 ## 🤸🏻‍♀️ Experiences
 - Sookmyung Software Dept. Algorithm Club - ALGOS (11th, 12th Member, 2021)
