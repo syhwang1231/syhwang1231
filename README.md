@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 ## 🏆 Achievements
 - The 5th KB Kookmin Bank Software Contest - Special Award, `2022`
-- 3rd Pre-Startup MVP Develop/Product support team, POCHAK, `2024`
+- Sookmyung Women's University 3rd Pre-Startup MVP Develop/Product support team, POCHAK, `2024`
