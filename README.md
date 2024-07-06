@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <div align=center>
     
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyhwang1231&count_bg=%233BD3FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/syhwang1231?pet-id=1" width="1000" height="120"/>
+</a>
 </div>
 
 ## 🧐 Profile
