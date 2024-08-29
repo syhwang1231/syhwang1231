@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 |<img src="https://github.com/flower-project-2024/WHOA_iOS/assets/81567790/bc1c07c3-c533-4efe-8f2d-ef426efa490f" width = "30" height="30">[꽃다발 커스터마이징 서비스, 후아(WHOA)](https://github.com/flower-project-2024)|iOS developer|2024.1 ~ |1st release, 2024.07. Check out our app in [AppStore](https://apps.apple.com/kr/app/whoa-%ED%9B%84%EC%95%84/id6517357818)!|
 
 ## 🏆 Achievements
-- The 5th KB Kookmin Bank Software Contest - Special Award, `2022`
-- Sookmyung Women's University 3rd Pre-Startup MVP Develop/Product support team, POCHAK, `2024`
-- The 1st National University Software Achievement Sharing Forum - 2nd Place, `2024`
+- The 5th KB Kookmin Bank Software Contest - Special Award, `2022.12`
+- Sookmyung Women's University 3rd Pre-Startup MVP Develop/Product support team, POCHAK, `2024.05 ~`
+- The 1st National University Software Achievement Sharing Forum - 2nd Place, `2024.08`
