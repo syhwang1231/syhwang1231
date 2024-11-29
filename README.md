@@ -60,3 +60,4 @@ Here are some ideas to get you started:
 - The 5th KB Kookmin Bank Software Contest - Special Award, `2022.12`
 - Sookmyung Women's University 3rd Pre-Startup MVP Develop/Product support team, POCHAK, `2024.05 ~`
 - The 1st National University Software Achievement Sharing Forum - 2nd Place, `2024.08`
+- The 2nd SMU Local Government, Industry, and Academic EXPO, Fly Start-up Demo day - 3rd place, `2024.11`
