@@ -20,12 +20,15 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyhwang1231&count_bg=%233BD3FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-<div align=center>
+<!-- <div align=center>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/syhwang1231"/>
 </a>
-</div>
+</div> -->
 
+## 🔎 Interest
+- iOS App develop
+- Computer Vision
 
 ## 🧐 Profile
 
