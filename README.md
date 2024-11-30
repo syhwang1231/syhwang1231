@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ## ✨ Projects
 |Name|Role|Duration|Etc.|
 |---|---|---|---|
-|<img src="https://avatars.githubusercontent.com/u/170924528?s=400&u=0b18304256ad20dff5a953544881ecd68cf840d1&v=4" width="30" height="30">[사진 캘린더 서비스, 쿠키(COOKIEE)](https://github.com/SMWU-COOKIEE)|Backend(Spring) developer|2023.3 ~ ||
+|<img src="https://avatars.githubusercontent.com/u/170924528?s=400&u=0b18304256ad20dff5a953544881ecd68cf840d1&v=4" width="30" height="30">[사진 캘린더 서비스, 쿠키(COOKIEE)](https://github.com/SMWU-COOKIEE)|Backend(Spring) developer|2023.3 ~ 2024.2||
 |<img src="https://github.com/SMWU-POCHAK/POCHAK-iOS/assets/81567790/b4bf7275-cf18-4f7c-a514-b64c8f604474" width="30" height="30">[당신의 순간, 포착(POCHAK)](https://github.com/SMWU-POCHAK)|iOS developer|2023.3 ~ |1st release, 2024.07. Check out our app in [AppStore](https://apps.apple.com/kr/app/pochak/id6502332418)!|
 |<img src="https://github.com/flower-project-2024/WHOA_iOS/assets/81567790/bc1c07c3-c533-4efe-8f2d-ef426efa490f" width = "30" height="30">[꽃다발 커스터마이징 서비스, 후아(WHOA)](https://github.com/flower-project-2024)|iOS developer|2024.1 ~ 2024.10|1st release, 2024.07. Check out our app in [AppStore](https://apps.apple.com/kr/app/whoa-%ED%9B%84%EC%95%84/id6517357818)!|
 
