@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 </div> -->
 
 ## 🔎 Interest
-- iOS App develop
+- iOS App development
 - Computer Vision
 
 ## 🧐 Profile
 
 - Computer Science Major, at Sookmyung Women’s University (2020.03 ~ )
 - Exchange student in Angelo State University, Texas, U.S. (2023.08 ~ 12.)
-- My goal is to be an iOS app developer.
-- I'm currently learning <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=swift&logoColor=white"/>.
+- Still figuring out what I want to do.. 💭
+- I'm currently learning <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=swift&logoColor=white"/> and Computer Vision.
 - Contact: [![GitHub](https://img.shields.io/badge/Github-181717?style=round-square&logo=GitHub&logoColor=white)](http://github.com/syhwang1231) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:syhhwang1231@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%ED%99%A9-05ba292a6/) [![Velog](https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white)](https://velog.io/@sxyxnn)  
 
 ## 🤸🏻‍♀️ Experiences
