@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 🔎 Interest
 - iOS App development
 - Computer Vision
- - Currently studying Deep Learning
+    - Currently studying Deep Learning
 
 ## 🧐 Profile
 
