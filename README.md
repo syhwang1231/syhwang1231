@@ -30,17 +30,19 @@ Here are some ideas to get you started:
 - iOS App development
 - Computer Vision
     - Currently studying Deep Learning
+  
+## 📫 Contact
+[![GitHub](https://img.shields.io/badge/Github-181717?style=round-square&logo=GitHub&logoColor=white)](http://github.com/syhwang1231) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:syhhwang1231@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%ED%99%A9-05ba292a6/) [![Velog](https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white)](https://velog.io/@sxyxnni/posts)
 
-## 🧐 Profile
-
+## 🧐 Education
 - Computer Science Major, at Sookmyung Women’s University (2020.03 ~ )
 - Exchange student in Angelo State University, Texas, U.S. (2023.08 ~ 12.)
-- Contact: [![GitHub](https://img.shields.io/badge/Github-181717?style=round-square&logo=GitHub&logoColor=white)](http://github.com/syhwang1231) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:syhhwang1231@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%ED%99%A9-05ba292a6/) [![Velog](https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white)](https://velog.io/@sxyxnni/posts)  
 
 ## 🤸🏻‍♀️ Experiences
 - Sookmyung Software Dept. Algorithm Club - ALGOS (11th, 12th Member, 2021)
 - Sookmyung Mobile Application Development Club - APPS (8th Member, 2022.03 ~ 2023.06)
-- Exchange Student Program at Angelo State University, TX, U.S. (2023.08 ~ 12)
+- Exchange Student Program @ Angelo State University, TX, U.S. (2023.08 ~ 12)
+- Undergradue intern @ AIVisionLab, Sookmyung Women's University (2025.01 ~ )
 
 ## 🛠 Skills
 - Programming Languages and Software
