@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 - Sookmyung Software Dept. Algorithm Club - ALGOS (11th, 12th Member, `2021`)
 - Sookmyung Mobile Application Development Club - APPS (8th Member, `2022.03 ~ 2023.06`)
 - Exchange Student Program @ Angelo State University, TX, U.S. (`2023.08 ~ 12`)
-- Undergradue intern @ AIVisionLab, Sookmyung Women's University (`2025.01 ~ `)
+- Undergraduate intern @ AIVisionLab, Sookmyung Women's University (`2025.01 ~ 09`)
+- Undergraduate intern @ AI&Media Lab, Sungkyunkwan University (`2025.09 ~ Current`)
 
 ## 🛠 Skills
 - Programming Languages and Software
