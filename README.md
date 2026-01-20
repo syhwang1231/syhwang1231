@@ -32,8 +32,7 @@ Here are some ideas to get you started:
     - Currently studying diverse tasks
   
 ## 📫 Contact
-[![GitHub](https://img.shields.io/badge/Github-181717?style=round-square&logo=GitHub&logoColor=white)](http://github.com/syhwang1231) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:syhhwang1231@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%ED%99%A9-05ba292a6/) [![Velog](https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white)](https://velog.io/@sxyxnni/posts)
-
+[![GitHub](https://img.shields.io/badge/Github-181717?style=round-square&logo=GitHub&logoColor=white)](http://github.com/syhwang1231) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:syhhwang1231@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%ED%99%A9-05ba292a6/) [![Velog](https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white)](https://velog.io/@sxyxnni/posts) [![Website](https://img.shields.io/badge/GitHubPages-222222?style=round-square&logo=githubpages&logoColor=white)](https://syhwang1231.github.io/) (Design in progress..⚙️)                                
 ## 🧐 Education
 - Computer Science Major, at Sookmyung Women’s University (`2020.03 ~ `)
 - Exchange student in Angelo State University, Texas, U.S. (`2023.08 ~ 12.`)
