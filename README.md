@@ -33,11 +33,12 @@ Here are some ideas to get you started:
 ## 📫 Contact
 [![GitHub](https://img.shields.io/badge/Github-181717?style=round-square&logo=GitHub&logoColor=white)](http://github.com/syhwang1231) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:syhhwang1231@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=round-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%88%98%EC%97%B0-%ED%99%A9-05ba292a6/) [![Velog](https://img.shields.io/badge/Velog-20C997?style=round-square&logo=velog&logoColor=white)](https://velog.io/@sxyxnni/posts) [![Website](https://img.shields.io/badge/GitHubPages-222222?style=round-square&logo=githubpages&logoColor=white)](https://syhwang1231.github.io/) (Design in progress..⚙️)                                
 ## 🧐 Education
+- Master's @ AI&Media Lab, Sungkyunkwan University (`2026.03 ~ Present`)
 - Exchange student @ Angelo State University, Texas, U.S. (`2023.08 ~ 2023.12`)
 - B.E., Computer Science @ Sookmyung Women’s University (`2020.03 ~ 2026.02`)
 
 ## 🤸🏻‍♀️ Experiences
-- Undergraduate intern @ AI&Media Lab, Sungkyunkwan University (`2025.09 ~ Current`)
+- Undergraduate intern @ AI&Media Lab, Sungkyunkwan University (`2025.09 ~ 2026.02`)
 - Undergraduate intern @ AIVisionLab, Sookmyung Women's University (`2025.01 ~ 09`)
 - Exchange Student Program @ Angelo State University, TX, U.S. (`2023.08 ~ 12`)
 - Sookmyung Mobile Application Development Club - APPS (8th Member, `2022.03 ~ 2023.06`)
